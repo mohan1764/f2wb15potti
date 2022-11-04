@@ -2,7 +2,7 @@
 my name is mohan
 hosted at <https://f2wb15potti.onrender.com>
 
-myclass=cat
+myclass=elephant
 my attribute are
 elephant_color:(String)
 elephant_breed:(String)
